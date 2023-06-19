@@ -31,6 +31,13 @@ You can enter your API key in the location specified in the Constants.kt file in
 * [Weather Icons](https://designdkblog.blogspot.com/2021/05/get-3d-weather-icons-for-adobe-xd-figma.html)
 * <a href="https://www.flaticon.com/free-icons/error" title="error icons">Error icons created by Freepik - Flaticon</a>
 
+### Home Screen 🏠
+
+
+https://github.com/praveenyadati/Weather/assets/3103882/4ac4bb1c-d5c3-479a-be10-a19e33d260f3
+
+
+
 ## Project Structure 🏗
 
 ```
