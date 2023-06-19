@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="daily_forecast">Daily Forecast</string>
+    <string name="temp">🌡 TEMP</string>
+    <string name="feels_like">🌡 FEELS LIKE</string>
+    <string name="cloudiness">☁ CLOUDINESS</string>
+    <string name="humidity">💧 HUMIDITY</string>
+    <string name="sunrise">🌇 SUNRISE</string>
+    <string name="sunset">🌆 SUNSET</string>
+    <string name="wind">🌬 WIND</string>
+    <string name="pressure">⏲ PRESSURE</string>
+    <string name="km">KM</string>
+    <string name="degree">°</string>
+    <string name="ok">OK</string>
+    <string name="search_for_a_city">Search for a city</string>
+</resources>
